@@ -92,3 +92,4 @@ sync
 
 Proyecto académico desarrollado como parte del curso Arquitectura de Computadoras II  
 Universidad Mariano Gálvez de Guatemala – 2025
+Ing. Henry Sontay
